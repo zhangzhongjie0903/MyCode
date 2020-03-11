@@ -1,0 +1,2 @@
+git 中文字符显示为八进制时使用命令：
+	git config --global core.quotepath false
