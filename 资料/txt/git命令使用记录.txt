@@ -1,0 +1,3 @@
+git 中文字符显示为八进制时使用命令：
+	git config --global core.quotepath false
+vimtutor 打开内置vim练习文档
