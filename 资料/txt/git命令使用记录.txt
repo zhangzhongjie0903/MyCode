@@ -1,0 +1,5 @@
+git 中文字符显示为八进制时使用命令：
+	git config --global core.quotepath false
+vimtutor 打开内置vim练习文档
+
+git branch -f master c1 ; //将master分支强制指向c1提交记录 可用于将本分支回退到某个版本；

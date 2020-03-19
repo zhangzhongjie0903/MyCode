@@ -1,0 +1,50 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+<Head>
+<_TransactionId>Batch.JobReStart</_TransactionId>
+<_MCHTimestamp>2017-08-03 19:23:27</_MCHTimestamp>
+<_MChannelId>PIBS</_MChannelId>
+<_locale>zh_CN</_locale>
+</Head>
+<Body>
+<JobId>InSuranceProductInfoService</JobId>
+<Key>20171124</Key>
+</Body>
+</Message>
+
+<19019>
+	
+	FundAndProfolioInfoService
+	
+	
+
+<?xml  version="1.0" encoding="UTF-8" ?>
+<Message>
+	<Sys_Head>
+		<SERVICE_CODE>SVR_NONFINANCIAL</SERVICE_CODE>
+		<TRAN_CODE>02ECP210</TRAN_CODE>
+		<TRAN_MODE>ONLINE</TRAN_MODE>
+		<SOURCE_TYPE>FI</SOURCE_TYPE>
+		<BRANCH_ID>419999</BRANCH_ID>
+		<USER_ID/>
+		<TRAN_DATE>0</TRAN_DATE>
+		<TRAN_TIMESTAMP>0</TRAN_TIMESTAMP>
+		<SERVER_ID>10.101.7.3</SERVER_ID>
+		<WS_ID>G</WS_ID>
+		<SEQ_NO/>
+		<CONSUMER_ID>IFM</CONSUMER_ID>
+		<SOURCE_BRANCH_NO/>
+		<DEST_BRANCH_NO/>
+		<CUSTOMER_ID/>
+	</Sys_Head>
+	<Body>
+		<MetalFilePath>/share/ifm/fund/day/metalinfo_2022022392756.dat</MetalFilePath>
+	</Body>
+</Message>
+
+
+
+18011 6
