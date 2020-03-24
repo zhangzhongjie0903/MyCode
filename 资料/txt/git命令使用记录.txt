@@ -3,3 +3,13 @@ git 中文字符显示为八进制时使用命令：
 vimtutor 打开内置vim练习文档
 
 git branch -f master c1 ; //将master分支强制指向c1提交记录 可用于将本分支回退到某个版本；
+
+ssh -keygen -t rsa -C "account email"         ->上面的邮箱地址 生成sshkey
+
+cmd 输入sysdm.cpl  打开环境变量
+
+//根据远程分支创建本地分支
+git fetch origin test:test
+git push --set-upstream origin test //将本地test分支与远程test分支建立关联
+
+cat .git/HEAD //查看head指向

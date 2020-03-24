@@ -1,0 +1,28 @@
+Ctrl+Shift+L	弹出快捷键列表
+Ctrl+E  在右边显示打开的文件 Ctrl+F6 在当前文件里面显示打开的文件
+Ctrl+W	关闭当前文件  Ctrl+Shift+W 关闭所有文件
+Ctrl+T	查找java文件
+Ctrl+R	查找资源文件
+Ctrl+H	全局查询
+Alt+Shift+S	调出get、set代码生成视图
+Ctrl+K	向下寻找相同的文件 Ctrl+ShiftK 	向上寻找相同的文件
+Ctrl+1	自动生成返回值
+Ctrl+Shift+O	自动导包
+
+Alt+Shift+R		统一修改变量名和方法名和类名
+Alt+Shift+M	将选中的代码抽取成方法
+Ctrl+Shift+G	找出调用某个方法的所有类
+Alt+Shift+向右键 选中整个字符串
+
+Ctrl+O	显示当前类的所有属性和方法
+Ctrl+M	切换窗口的大小
+Ctrl+Shift+X	变小写
+Ctrl+Shift+Y	变大写
+
+Alt+Shift+W 选择package 定位到当前打开的文件
+Ctrl+3 使用Quick Access
+Ctrl+Shift+下键	在方法名和变量名中间跳跃
+Alt+Shift+B	调出面包屑功能
+Alt+Shift+N 调出创建视图 Ctrl+N 在任意目录下创建
+Ctr+Shift+P	跳转到对应的大括号
+Ctrl+Shift+逗号  显示xml、html属性
